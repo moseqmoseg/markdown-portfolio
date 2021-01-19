@@ -5,3 +5,10 @@ These are some of the things I'm into:
 + Comic Books :open_book:
 + Films :movie_camera:
 + BJJ :martial_arts_uniform:
+
+
+Languages I'm hoping to learn
+ - Python
+ - HTML
+ - Javascript
+ - C+
